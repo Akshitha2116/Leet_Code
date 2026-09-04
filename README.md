@@ -9,5 +9,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Akshitha2116/Leet_Code/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Akshitha2116/Leet_Code/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Akshitha2116/Leet_Code/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Akshitha2116/Leet_Code/tree/master/1075-project-employees-i) |
 | [1729-find-followers-count](https://github.com/Akshitha2116/Leet_Code/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
